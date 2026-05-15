@@ -1,0 +1,6 @@
+{
+  "name": "CraterLens - Lunar Analysis Portal",
+  "description": "A research-grade deep learning platform for detecting and classifying lunar craters using U-Net and diffusion-inspired preprocessing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Computer Vision"]
+}
